@@ -162,7 +162,7 @@ Choosing OneSignal simplifies the development of push notifications and provides
 # Summary
 To summarize, the ADR denotes the important choices that were made to make an innovative food delivery app that is efficient, scalable, and incoporated with technologies to enhance functionality and user engagement.
 
-#References
+# References
 [1] M. Reality, “Cross-platform vs Native App Development: Ultimate comparison,” Cross-platform vs native app development: Ultimate Comparison, https://themobilereality.com/blog/cross-platform-vs-native-app-development (accessed Oct. 9, 2023). 
 [2] Admin, “Flutter vs. react native: Which is the right cross-platform,” Scadea, https://scadea.com/flutter-vs-react-native-which-is-the-right-cross-platform/ (accessed Oct. 9, 2023). 
 [3] “What is node.js and why you should use it,” Kinsta®, https://kinsta.com/knowledgebase/what-is-node-js/ (accessed Oct. 9, 2023). 
