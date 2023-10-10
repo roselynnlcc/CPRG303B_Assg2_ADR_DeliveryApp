@@ -163,15 +163,15 @@ Choosing OneSignal simplifies the development of push notifications and provides
 To summarize, the ADR denotes the important choices that were made to make an innovative food delivery app that is efficient, scalable, and incoporated with technologies to enhance functionality and user engagement.
 
 # References
-[1] M. Reality, “Cross-platform vs Native App Development: Ultimate comparison,” Cross-platform vs native app development: Ultimate Comparison, https://themobilereality.com/blog/cross-platform-vs-native-app-development (accessed Oct. 9, 2023). 
-[2] Admin, “Flutter vs. react native: Which is the right cross-platform,” Scadea, https://scadea.com/flutter-vs-react-native-which-is-the-right-cross-platform/ (accessed Oct. 9, 2023). 
-[3] “What is node.js and why you should use it,” Kinsta®, https://kinsta.com/knowledgebase/what-is-node-js/ (accessed Oct. 9, 2023). 
-[4] Auth0, “OAuth 2.0 Authorization Framework,” Auth0 Docs, https://auth0.com/docs/authenticate/protocols/oauth (accessed Oct. 9, 2023). 
-[5] K. Supe, “When to Use a NoSQL Database,” When to use a nosql database, https://memgraph.com/blog/when-to-use-a-nosql-database (accessed Oct. 9, 2023). 
-[6] S. Engdahl, “Processing user-generated content using AWS Lambda and FFmpeg,” Amazon, https://aws.amazon.com/blogs/media/processing-user-generated-content-using-aws-lambda-and-ffmpeg/ (accessed Oct. 9, 2023). 
-[7] Stripe, “Payments stack 101: How to create the right one,” Stripe, https://stripe.com/en-at/resources/more/payments-stack-101 (accessed Oct. 9, 2023). 
-[8] Braintree, “Boost revenue with a global payments partner,” Braintree, https://www.braintreepayments.com/ca (accessed Oct. 9, 2023). 
-[9] Apollo Docs, “Queries - Fetch data with the useQuery hook,” Apollo Docs, https://www.apollographql.com/docs/react/data/queries/ (accessed Oct. 9, 2023). 
-[10] G. Thomas, “Web scraping in JavaScript – how to use puppeteer to scrape web pages,” freeCodeCamp.org, https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/ (accessed Oct. 9, 2023). 
-[11] Google, “Firebase Cloud Messaging,” Google, https://firebase.google.com/docs/cloud-messaging (accessed Oct. 9, 2023). 
-[12] J. M. Adler, “Firebase Cloud Messaging (FCM) vs. OneSignal,” Customer Engagement Blog, https://onesignal.com/blog/firebase-vs-onesignal/ (accessed Oct. 9, 2023). 
+- [1] M. Reality, “Cross-platform vs Native App Development: Ultimate comparison,” Cross-platform vs native app development: Ultimate Comparison, https://themobilereality.com/blog/cross-platform-vs-native-app-development (accessed Oct. 9, 2023). 
+- [2] Admin, “Flutter vs. react native: Which is the right cross-platform,” Scadea, https://scadea.com/flutter-vs-react-native-which-is-the-right-cross-platform/ (accessed Oct. 9, 2023). 
+- [3] “What is node.js and why you should use it,” Kinsta®, https://kinsta.com/knowledgebase/what-is-node-js/ (accessed Oct. 9, 2023). 
+- [4] Auth0, “OAuth 2.0 Authorization Framework,” Auth0 Docs, https://auth0.com/docs/authenticate/protocols/oauth (accessed Oct. 9, 2023). 
+- [5] K. Supe, “When to Use a NoSQL Database,” When to use a nosql database, https://memgraph.com/blog/when-to-use-a-nosql-database (accessed Oct. 9, 2023). 
+- [6] S. Engdahl, “Processing user-generated content using AWS Lambda and FFmpeg,” Amazon, https://aws.amazon.com/blogs/media/processing-user-generated-content-using-aws-lambda-and-ffmpeg/ (accessed Oct. 9, 2023). 
+- [7] Stripe, “Payments stack 101: How to create the right one,” Stripe, https://stripe.com/en-at/resources/more/payments-stack-101 (accessed Oct. 9, 2023). 
+- [8] Braintree, “Boost revenue with a global payments partner,” Braintree, https://www.braintreepayments.com/ca (accessed Oct. 9, 2023). 
+- [9] Apollo Docs, “Queries - Fetch data with the useQuery hook,” Apollo Docs, https://www.apollographql.com/docs/react/data/queries/ (accessed Oct. 9, 2023). 
+- [10] G. Thomas, “Web scraping in JavaScript – how to use puppeteer to scrape web pages,” freeCodeCamp.org, https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/ (accessed Oct. 9, 2023). 
+- [11] Google, “Firebase Cloud Messaging,” Google, https://firebase.google.com/docs/cloud-messaging (accessed Oct. 9, 2023). 
+- [12] J. M. Adler, “Firebase Cloud Messaging (FCM) vs. OneSignal,” Customer Engagement Blog, https://onesignal.com/blog/firebase-vs-onesignal/ (accessed Oct. 9, 2023). 
